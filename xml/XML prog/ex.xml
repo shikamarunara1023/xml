@@ -1,0 +1,14 @@
+<?xml version = "1.0" ?>
+<br/><address>Address
+<br/><br/><name>
+<first>Siva</first>
+<last>Ganesan</last>
+</name>
+<br/><email>sivag@gmail.com</email>
+<br/><phone>123456789</phone>
+<br/><birthday>
+<year>1980</year>
+<month>01</month> 
+<day>15</day>
+</birthday>
+</address>
